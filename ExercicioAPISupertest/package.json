@@ -1,0 +1,17 @@
+{
+  "name": "exercicio-api-supertest",
+  "version": "1.0.0",
+  "description": "Teste de API",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Fernando",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "jest": "^29.6.1",
+    "jest-html-reporters": "^3.1.4",
+    "supertest": "^6.3.3"
+  }
+}
