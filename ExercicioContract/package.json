@@ -16,7 +16,7 @@
       ".(js|jsx|ts|tsx)": "@sucrase/jest-plugin"
     }
   },
-  "author": "Fernando",
+  "author": "fernando",
   "dependencies": {
     "@pact-foundation/pact": "^9.17.0",
     "@pact-foundation/pact-node": "^10.15.0",
